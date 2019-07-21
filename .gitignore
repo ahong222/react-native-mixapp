@@ -1,4 +1,6 @@
 */build
 /node_modules
-/.gradle
-/.idea
+*/.gradle
+*/.idea
+/android/.gradle
+/android/.idea
